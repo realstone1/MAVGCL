@@ -375,6 +375,7 @@
 									<directory>${project.basedir}</directory>
 									<includes>
 										<include>MAVGAnalysis.icns</include>
+										<include>MAVGAnalysis.ico</include>
 										<include>MAVGAnalysis.png</include>
 									</includes>
 								</resource>
